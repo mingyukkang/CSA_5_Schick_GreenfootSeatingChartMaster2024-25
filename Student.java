@@ -8,7 +8,7 @@ import java.util.ArrayList;
  */
 public abstract class Student extends Actor
 {
-   //Instance variables
+   //Instance variables (What's wrong with these, and how they are declared?)
    public String firstName;
    public String lastName;
    public int mySeatX;         // rows start in the front of class (1), and end in the back of class
